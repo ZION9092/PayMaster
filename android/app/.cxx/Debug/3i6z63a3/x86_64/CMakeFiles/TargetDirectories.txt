@@ -1,0 +1,2 @@
+C:/easypay-main/android/app/.cxx/Debug/3i6z63a3/x86_64/CMakeFiles/edit_cache.dir
+C:/easypay-main/android/app/.cxx/Debug/3i6z63a3/x86_64/CMakeFiles/rebuild_cache.dir

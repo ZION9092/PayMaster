@@ -1,0 +1,2 @@
+C:/easypay-main/android/app/.cxx/RelWithDebInfo/2m15zk1m/x86/CMakeFiles/edit_cache.dir
+C:/easypay-main/android/app/.cxx/RelWithDebInfo/2m15zk1m/x86/CMakeFiles/rebuild_cache.dir
